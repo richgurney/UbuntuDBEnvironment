@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"/Users/Richard/SpartaResources/Eng5-DevOps/dbEnvironment/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/Richard/SpartaResources/Eng5-DevOps/dbEnvironment","disabled":false,"__vagrantfile":true}}}
